@@ -2,11 +2,7 @@
 title: "Zadanie 1"
 author: "imię nazwisko"
 date: "`r Sys.time()`"
-output:
-  html_document:
-    df_print: paged
-  html_notebook:
-    css: style_wej.css
+output: github_document
 ---
 
 
