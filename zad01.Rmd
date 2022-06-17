@@ -1,8 +1,10 @@
 ---
 title: "Zadanie 1"
-date: "`r Sys.time()`"
 author: "imię nazwisko"
-output: 
+date: "`r Sys.time()`"
+output:
+  html_document:
+    df_print: paged
   html_notebook:
     css: style_wej.css
 ---
